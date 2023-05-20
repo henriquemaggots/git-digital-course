@@ -1,3 +1,3 @@
 # Curso Digital: Git
 
-## modificando arquivo
+## modificando arquivo git
