@@ -4,4 +4,4 @@
 
 - comando pull
 - comando push
-- branch teste
+- teste merge
