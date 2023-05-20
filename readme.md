@@ -3,3 +3,4 @@
 ## modificando arquivo git
 
 - comando pull
+* comando push
