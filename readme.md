@@ -4,4 +4,3 @@
 
 - comando pull
 - comando push
-- comando fetch
