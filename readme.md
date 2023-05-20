@@ -3,5 +3,5 @@
 ## modificando arquivo git
 
 - comando pull
-* comando push
-* comando fetch
+- comando push
+- comando fetch
